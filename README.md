@@ -1,2 +1,13 @@
 # Q4-Project
-Q4
+
+Link to project
+
+## Week 1
+- Wrote story
+- Began animating characters
+
+
+## Week 2
+- Continued animating characters
+
+
